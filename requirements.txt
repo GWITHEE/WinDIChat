@@ -1,0 +1,14 @@
+﻿# ./requirements.txt
+fastapi>=0.95.0
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy[asyncio]
+psycopg2-binary
+asyncpg
+aioredis>=2.0.1
+websockets>=10.4
+pytest>=7.2.0
+httpx
+python-dotenv
